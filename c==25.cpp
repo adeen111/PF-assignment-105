@@ -2,9 +2,8 @@
 using namespace std;
 
 int main() {
-    int a,b,c,d,e;
-    cin >> a >> b >> c >> d >> e;
-    int total = a+b+c+d+e;
-    float avg = total/5.0;
-    cout << total << endl << avg;
+    float a,b,c;
+    cin >> a >> b >> c;
+    float disc = b*b - 4*a*c;
+    cout << disc;
 }
