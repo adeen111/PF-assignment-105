@@ -1,7 +1,7 @@
 # PF-Implementation-Assignment-MOHAMMAD ADEEN
 ROLL NO :25014119-105
 Mohammad Adeen
-C++ used
+C++ used,PYTHON and C is used
  
 1. Write a program to assigned values to three variables at the time of 
 declaration. Print the assigned values on the computer screen.
