@@ -1,0 +1,2 @@
+roll=int(input());m1=int(input());m2=int(input());m3=int(input());total=m1+m2+m3;avg=total/3;print(roll,total,avg)
+# This program takes a student's roll number and marks in three subjects as input, then calculates and prints the total and average marks
